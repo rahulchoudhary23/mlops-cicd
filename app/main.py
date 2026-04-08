@@ -24,3 +24,4 @@ def predict(data: dict):
     prediction = model.predict(features)
 
     return {"prediction": int(prediction[0])}
+#wertyujkl
